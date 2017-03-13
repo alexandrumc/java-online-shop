@@ -1,0 +1,14 @@
+[Marius, Andrada]
+[Produs_3_3064;3064;107.81, Produs_0_9;9;312.48, Produs_0_81;81;384.77]
+[Alexandru, Ion, Cristina]
+Produs_0_21;21;274.97
+[Marius, Andrada]
+805.06
+[MODIFY;3023;3, MODIFY;3085;3, ADD;3101;3, REMOVE;3018;3, MODIFY;3050;3, ADD;3102;3, MODIFY;3019;3, MODIFY;3003;3, ADD;3103;3]
+[Alexandru, Ion, Cristina]
+[REMOVE;2009;2, MODIFY;2060;2, REMOVE;2099;2, REMOVE;2092;2]
+[Ion, Maria]
+[Produs_3_3064;3064;107.81, Produs_0_9;9;312.48, Produs_0_81;81;384.77]
+[Marius, Andrada, Andreea]
+99.54
+Produs_1_1012;1012;165.18

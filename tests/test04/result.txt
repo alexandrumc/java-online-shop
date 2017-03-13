@@ -1,0 +1,32 @@
+[Andrei, Cristina, Marius]
+[REMOVE;3039;3, REMOVE;3102;3, MODIFY;3068;3]
+[Alexandru]
+[]
+[Alexandra]
+[Produs_2_2022;2022;15.56]
+Produs_0_99;99;184.00
+[Produs_0_62;62;485.94]
+99.94
+Produs_1_1073;1073;46.91
+Produs_0_62;62;485.94
+Produs_1_1052;1052;253.42
+[Produs_1_1073;1073;46.91]
+[]
+[]
+[]
+[MODIFY;2082;2]
+550.67
+[]
+[]
+[Alexandru]
+[ADD;2101;2, ADD;2102;2, ADD;2103;2, ADD;2104;2, REMOVE;2104;2, ADD;2104;2, REMOVE;2027;2, MODIFY;2028;2, MODIFY;2082;2, REMOVE;2035;2]
+Produs_1_1039;1039;435.38
+[]
+Produs_3_3024;3024;54.67
+99.94
+[Mihai]
+Produs_2_2094;2094;210.19
+[Produs_3_3024;3024;54.67, Produs_0_2;2;140.39, Produs_2_2094;2094;210.19]
+[Alexandru]
+Produs_2_2022;2022;15.56
+Produs_0_8;8;387.56

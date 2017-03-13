@@ -1,0 +1,12 @@
+[ADD;1100;1, MODIFY;1008;1, MODIFY;1004;1]
+[REMOVE;45;0]
+[Produs_2_2049;2049;367.75]
+[]
+[]
+34.74
+[ADD;100;0, MODIFY;63;0, ADD;101;0, REMOVE;45;0]
+Produs_0_68;68;115.97
+[Produs_0_35;35;34.74]
+[Maria, Andreea, Mihai]
+34.74
+119.54

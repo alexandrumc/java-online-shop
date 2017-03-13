@@ -1,0 +1,6 @@
+5
+Alina;750;A
+Maria;950;B
+Andrada;1650;C
+Andrei;1500;A
+Mihai;500;A

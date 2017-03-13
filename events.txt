@@ -1,0 +1,26 @@
+25
+addItem;100;ShoppingCart;Andrei
+addItem;104;WishList;Mihai
+addProduct;1;111;4.25;Mara - Ioan Slavici
+addProduct;1;112;4.45;Proza si teatru - V. Alecsandri
+addItem;403;ShoppingCart;Maria
+addItem;200;WishList;Mihai
+addItem;403;WishList;Mihai
+getItems;WishList;Mihai
+addProduct;4;404;9.75;Big fish
+delProduct;404
+getItem;Mihai
+getItems;WishList;Mihai
+getItems;ShoppingCart;Mihai
+addItem;402;ShoppingCart;Mihai
+getTotal;ShoppingCart;Mihai
+accept;4;Mihai
+getTotal;ShoppingCart;Mihai
+addItem;201;ShoppingCart;Mihai
+getTotal;ShoppingCart;Mihai
+getItems;WishList;Mihai
+getObservers;1
+getObservers;2
+getObservers;3
+getObservers;4
+getNotifications;Mihai
